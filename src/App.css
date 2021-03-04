@@ -1,0 +1,10 @@
+.page-title {
+    width: 100%;
+    display: block !important;
+    text-align: center !important;
+}
+
+.form-container {
+    width: 400px;
+    margin: auto;
+}
